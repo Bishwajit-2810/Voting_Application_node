@@ -1,0 +1,16 @@
+{
+    "name": "Trump",
+    "party": "Republican Party",
+    "age": 78,
+    "votes": [
+        {
+            "user": "657dfg65sd45ffd5sg4gs4s",
+            "votedAt": "2025-02-01T15:15:15.000Z"
+        },
+        {
+            "user": "657dfg65sd45ffd5sg4gs4s",
+            "votedAt": "2025-02-01T15:15:15.000Z"
+        }
+    ],
+    "voteCount": 2
+}
